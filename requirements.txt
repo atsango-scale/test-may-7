@@ -1,2 +1,4 @@
 # No external dependencies are required for this basic graph tool at the moment.
 # This file is a placeholder for future library additions. 
+
+pandas>=2.0.0 
